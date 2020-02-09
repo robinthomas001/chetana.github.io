@@ -1,1 +1,1 @@
-# chethana-github.io
+# chethana.github.io
